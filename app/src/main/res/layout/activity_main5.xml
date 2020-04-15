@@ -60,14 +60,6 @@
 
         </View>
 
-        <ImageView
-            android:id="@+id/imageView5"
-            android:layout_width="113dp"
-            android:layout_height="112dp"
-            app:srcCompat="@mipmap/PNG_image"
-            tools:layout_editor_absoluteX="149dp"
-            tools:layout_editor_absoluteY="83dp" />
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 

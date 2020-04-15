@@ -10,6 +10,9 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Spinner;
 
+//Mohamad Imran 10117170 IF5
+//Tanggal pengerjaan 15 April
+
 public class Main2Activity extends AppCompatActivity {
 
     private Button button;

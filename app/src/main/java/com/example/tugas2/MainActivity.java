@@ -10,6 +10,9 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//Mohamad Imran 10117170 IF5
+//Tanggal pengerjaan 14 April
+
 public class MainActivity extends AppCompatActivity {
 
     TextView textView;

@@ -7,6 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+//Mohamad Imran 10117170 IF5
+//Tanggal pengerjaan 15 April
+
 public class Main3Activity extends AppCompatActivity {
 
     private Button button;
@@ -16,12 +19,12 @@ public class Main3Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
 
-        Button button = (Button) findViewById(R.id.button4);
+        button = (Button) findViewById(R.id.button4);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 OpenActivity4();
-            }
+            };
         });
 
 

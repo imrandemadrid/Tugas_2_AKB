@@ -7,6 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+//Mohamad Imran 10117170 IF5
+//Tanggal pengerjaan 15 April
+
 public class Main4Activity extends AppCompatActivity {
 
     private Button button;
